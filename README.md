@@ -1,6 +1,6 @@
 👋 Hi, I’m Akshay (@akshaykumar-og)
 
-🎓 MSc Management with Data Analytics graduate | Incoming Data Scientist @ Barclays
+🎓 MSc Management with Data Analytics graduate | Data Scientist @ Barclays
 
 👀 Passionate about transforming data into actionable insights and building intelligent solutions
 
