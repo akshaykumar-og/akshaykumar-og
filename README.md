@@ -13,7 +13,7 @@
 
 🚀 Open to collaborating on Python, data science, and machine learning projects
 
-📫 Let’s connect: [akshaykumarshekar@gmail.com](mailto:akshaykumarshekar@gmail.com) | LinkedIn
+📫 Let’s connect: [shekar.akshayy@gmail.com](mailto:shekar.akshayy@gmail.com) | LinkedIn
 
 
 <!---
